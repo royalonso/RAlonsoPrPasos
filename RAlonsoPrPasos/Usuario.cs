@@ -8,12 +8,12 @@ namespace RAlonsoPrPasos
 {
     public class Usuario
     {
-        int id;
-        string Nombre;
-        string Apellido;
-        string NombreUsuario;
-        string Contrasenia;
-        string mail;
+        public int id { get; set; }
+        public string Nombre { get; set; }
+        public string Apellido { get; set; }
+        public string NombreUsuario { get; set; }
+        string Contrasenia { get; set; }
+        public string mail { get; set; }
 
         public Usuario()
         {
