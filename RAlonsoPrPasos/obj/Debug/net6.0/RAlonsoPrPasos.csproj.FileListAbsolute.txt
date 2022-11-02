@@ -1,0 +1,15 @@
+C:\Users\r_g_a\source\repos\RAlonsoPrPasos\RAlonsoPrPasos\bin\Debug\net6.0\RAlonsoPrPasos.exe
+C:\Users\r_g_a\source\repos\RAlonsoPrPasos\RAlonsoPrPasos\bin\Debug\net6.0\RAlonsoPrPasos.deps.json
+C:\Users\r_g_a\source\repos\RAlonsoPrPasos\RAlonsoPrPasos\bin\Debug\net6.0\RAlonsoPrPasos.runtimeconfig.json
+C:\Users\r_g_a\source\repos\RAlonsoPrPasos\RAlonsoPrPasos\bin\Debug\net6.0\RAlonsoPrPasos.dll
+C:\Users\r_g_a\source\repos\RAlonsoPrPasos\RAlonsoPrPasos\bin\Debug\net6.0\RAlonsoPrPasos.pdb
+C:\Users\r_g_a\source\repos\RAlonsoPrPasos\RAlonsoPrPasos\obj\Debug\net6.0\RAlonsoPrPasos.csproj.AssemblyReference.cache
+C:\Users\r_g_a\source\repos\RAlonsoPrPasos\RAlonsoPrPasos\obj\Debug\net6.0\RAlonsoPrPasos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\r_g_a\source\repos\RAlonsoPrPasos\RAlonsoPrPasos\obj\Debug\net6.0\RAlonsoPrPasos.AssemblyInfoInputs.cache
+C:\Users\r_g_a\source\repos\RAlonsoPrPasos\RAlonsoPrPasos\obj\Debug\net6.0\RAlonsoPrPasos.AssemblyInfo.cs
+C:\Users\r_g_a\source\repos\RAlonsoPrPasos\RAlonsoPrPasos\obj\Debug\net6.0\RAlonsoPrPasos.csproj.CoreCompileInputs.cache
+C:\Users\r_g_a\source\repos\RAlonsoPrPasos\RAlonsoPrPasos\obj\Debug\net6.0\RAlonsoPrPasos.dll
+C:\Users\r_g_a\source\repos\RAlonsoPrPasos\RAlonsoPrPasos\obj\Debug\net6.0\refint\RAlonsoPrPasos.dll
+C:\Users\r_g_a\source\repos\RAlonsoPrPasos\RAlonsoPrPasos\obj\Debug\net6.0\RAlonsoPrPasos.pdb
+C:\Users\r_g_a\source\repos\RAlonsoPrPasos\RAlonsoPrPasos\obj\Debug\net6.0\RAlonsoPrPasos.genruntimeconfig.cache
+C:\Users\r_g_a\source\repos\RAlonsoPrPasos\RAlonsoPrPasos\obj\Debug\net6.0\ref\RAlonsoPrPasos.dll
