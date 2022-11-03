@@ -19,5 +19,15 @@ namespace RAlonsoPrPasos
         {
             
         }
+
+        public Usuario(int id, string nombre, string apellido, string nombreUsuario, string contrasenia, string mail)
+        {
+            this.id = id;
+            Nombre = nombre;
+            Apellido = apellido;
+            NombreUsuario = nombreUsuario;
+            Contrasenia = contrasenia;
+            this.mail = mail;
+        }
     }
 }
